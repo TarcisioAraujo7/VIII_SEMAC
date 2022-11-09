@@ -3,7 +3,7 @@ Material apresentado durante o mini curso Python &amp; Twitter Aplicações em 1
 
 Feito por:
 - [Tarcisio Almeida](https://github.com/TarcisioAraujo7)
-- [Túlio Souza](https://github.com/tuliosg)
+- [Túlio Sousa](https://github.com/tuliosg)
 
 
 ## **Nosso linktree**
