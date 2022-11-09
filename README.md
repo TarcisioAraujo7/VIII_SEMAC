@@ -1,6 +1,14 @@
 # VIII SEMAC
 Material apresentado durante o mini curso Python &amp; Twitter Aplicações em 140 caracteres  
 
+Feito por:
+- [Tarcisio Almeida](https://github.com/TarcisioAraujo7)
+- [Túlio Souza](https://github.com/tuliosg)
+
+
+## **Nosso linktree**
+
+- [Linktree](https://linktr.ee/python.twitter?utm_source=linktree_profile_share&ltsid=0dda77a2-aaeb-45b5-9b6d-6fb78065ac2e)
 
 ## **Referências**
 * [**API do Twitter**](https://developer.twitter.com/en/docs/twitter-api/)
